@@ -1,4 +1,4 @@
-# Analisis-Supervisado-Banco-Monopoly
+# Supervised-Analysis-Banco-Monopoly
 
 Group project developed for Machine Learning class. Credits to my classmates Gustavo Acuña and Benjamin Perez with whom I worked on this.
 
